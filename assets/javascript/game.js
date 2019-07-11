@@ -1,3 +1,6 @@
+
+
+
 alert("Press Enter Button")
 
 
@@ -54,8 +57,6 @@ while ( Word > 0)
               }
             
     }
+    document.write(" The word is : " + ranWord);
+  
 
-  document.write(" The word is : " + ranWord);
-
-
- 
